@@ -1,4 +1,4 @@
-# Histogram-Uncertainty
+# Correct Histogram Uncertainty Estimation
 
 This work has been published by **Mehdi Rezvandehy** and **Clayton V. Deutsch** at Springer,
 [Journal of Natural Resource Research](https://doi.org/10.1007/s11053-016-9322-3) https://doi.org/10.1007/s11053-016-9322-3.
